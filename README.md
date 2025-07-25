@@ -161,6 +161,7 @@ The most basic and important features:
 - **Create diagrams as code**: Slidev supports the following tools
   - [Mermaid](https://mermaid.js.org/intro/) ([live editor](https://mermaid.live/))
   - [PlantUML](https://plantuml.com/) ([live editor](https://editor.plantuml.com/))
+- **Visualize data with D3**: You can use [D3.js](https://d3js.org/) to create complex diagrams and visualizations by creating a [component](https://sli.dev/guide/component).
 - **Use TailwindCSS for advanced formatting**: TailwindCSS is already used in Vite (upon which Slidev is built). It can help create more advanced layouts, e.g., [columns](https://tailwindcss.com/docs/columns) or [grid](https://tailwindcss.com/docs/grid-template-columns).
 
 

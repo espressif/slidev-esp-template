@@ -306,6 +306,18 @@ Also, HTML elements are valid:
 -->
 
 ---
+
+# D3 in Components
+
+(added in slidev-esp-template)
+
+You can use D3.js to create complex diagrams and visualizations by creating a [component](https://sli.dev/guide/component) for your slides. You can find the code for this example in the `components` folder.
+
+<div class="mt-8">
+<D3/>
+</div>
+
+---
 class: px-20
 ---
 
