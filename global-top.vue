@@ -2,9 +2,9 @@
   <header
     style="
       position: fixed;
-      top: 1rem;
-      right: 2rem;
-      width: 200px;
+      top: 0.5rem;
+      right: 1rem;
+      width: 180px;
       opacity: 0.8;
       pointer-events: none;
       z-index: 9999;
